@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<img src="https://user-images.githubusercontent.com/111609911/186238624-cc9fcf71-03c2-4891-b2c2-0fd8cb7ac835.png" style=" width:300px ; height:300px; "  > 
+
+
+
 
 <!--
 **JennaRParker/JennaRParker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +14,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
+https://user-images.githubusercontent.com/111609911/186238093-878b8f86-82dd-423c-a0e6-0200ce5c180d.mp4
+
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
