@@ -1,24 +1,11 @@
+# ╰(*°▽°*)╯ HELLO ╰(*°▽°*)╯
 
-<img src="https://user-images.githubusercontent.com/111609911/186238624-cc9fcf71-03c2-4891-b2c2-0fd8cb7ac835.png" style=" width:300px ; height:300px; "  > 
+### I am a student in the Software Engineering Immersive at General Assembly, a full-time full-stack intensive optimized for industry relevance
 
+### Connect with me on LinkedIn https://www.linkedin.com/in/jenna-parker-a7286a152/
 
+- 🔭 I’m currently working on an app called Mood Sing that outputs songs based on a user's mood
+- 🌱 I’m currently learning AJAX
+- 🤹 I’m skilled in JavaScript, jQuery, CSS, HTML, GitBash, VS Code
+- 💬 I'm excited to learn Python, Ruby, React, Java
 
-
-<!--
-**JennaRParker/JennaRParker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-https://user-images.githubusercontent.com/111609911/186238093-878b8f86-82dd-423c-a0e6-0200ce5c180d.mp4
-
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
