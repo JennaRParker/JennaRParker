@@ -6,6 +6,6 @@
 
 - 🔭 I’m currently working on an app called Mood Sing that outputs songs based on a user's mood
 - 🌱 I’m currently building my first group project
-- 🤹 I’m skilled in JavaScript, jQuery, CSS, HTML, GitBash, VS Code, AJAX,  MERN stack
-- 💬 I'm excited to learn Python, Ruby, and Java
+- 🤹 I’m skilled in JavaScript, jQuery, CSS, HTML, GitBash, VS Code, AJAX,  MERN stack, Python, Django, React
+- 💬 I'm excited to learn Ruby, and Java
 
