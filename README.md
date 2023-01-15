@@ -1,14 +1,14 @@
 ### Hi, I'm Jenna Parker! 👋
 
-
-Connect with me on LinkedIn https://www.linkedin.com/in/jenna-parker-a7286a152/
-
 - 🔭 I’m currently working on a nutrition tracker React app
 - 🌱 I’m currently studying data structures and algorithms
 - 🎓 I attended the software engineering bootcamp at General Assembly in 2022
 - 🔍 I'm actively applying for my first position as a software engineer 
 - 👯 I'd love to collaborate on a project together!
 - 🗣️ Ask me about Amazon Web Services
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jennaparkerdev/), [email](parkerjenna98@gmail.com)
-- 💬 I'm excited to learn Ruby, and Java
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jennaparkerdev/), Email parkerjenna98@gmail.com
+- 🖥️ My [portfolio](https://jrp-dev-portfolio.netlify.app/) will allow you to view my projects in a different way
+- ⚡ Fun Fact: I recently found the results of a carreer assesment I took in middle school and it said I should become a web designer or a software engineer
+
+
 
