@@ -10,5 +10,7 @@
 - 🖥️ My [portfolio](https://jrp-dev-portfolio.netlify.app/) will allow you to view my projects in a different way
 - ⚡ Fun Fact: I recently found the results of a carreer assesment I took in middle school and it said I should become a web designer or a software engineer
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennaRParker&count_private=true&hide=stars)](https://github.com/JennaRParker/github-readme-stats)
+
 
 
